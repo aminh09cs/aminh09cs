@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Minh</h1>
-<h3 align="center">On the way to learn more things (FULLSTACK)</h3>
-
 # 💫About Me :
 <h1 align="center">Hi 👋, I'm Minh</h1>
 <h3 align="center">On the way to learn more things (FULLSTACK)</h3>
